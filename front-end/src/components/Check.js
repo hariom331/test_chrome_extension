@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import { Link } from "react-router-dom";
 const handleClickCheck = () => {
     navigator.mediaDevices
-        .getUserMedia({ video: true, audio: false })
+        .getUserMedia({ video: true, audio: true })
         .then(() => {
             console.log("Permission Granted")
             const url = window.location.href;
