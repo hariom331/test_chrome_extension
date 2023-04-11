@@ -1,7 +1,7 @@
 
 # Project Title
 
-This chrome extension project is build as a assignment for a recruitment process. This project first handles the data input by user on front-end and store data into database using backend. Then check if user has provided access to camera and microphone. And if provided so then it continously moniters the camera input and send snaps to cloud storage at regular interval and store the corresponding image links to the database along with user data.
+This chrome extension project is build as a assignment for a internship process. This project first handles the data input by user on front-end and store data into database using backend. Then check if user has provided access to camera and microphone. And if provided so then it continously moniters the camera input and send snaps to cloud storage at regular interval and store the corresponding image links to the database along with user data.
 
 
 ## Run Locally
